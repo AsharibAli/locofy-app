@@ -155,9 +155,9 @@ const Homepage: NextPage = () => {
                   </div>
                 </div>
                 <div className="flex flex-col p-[3.7376978397369385px] items-center justify-center md:w-full md:text-left">
-                  <button className="cursor-pointer [border:none] p-0 bg-orange rounded-[2.99px] w-[122.6px] h-[41.86px] overflow-hidden shrink-0 flex flex-col items-center justify-center [transition:0.3s] hover:bg-orange md:mr-[auto] sm:w-[100%!important]">
+                  <button className="cursor-pointer [border:none] p-0 bg-black rounded-[2.99px] w-[122.6px] h-[41.86px] overflow-hidden shrink-0 flex flex-col items-center justify-center [transition:0.3s] hover:bg-orange md:mr-[auto] sm:w-[100%!important]">
                     <div className="relative text-[11.21px] tracking-[0.34px] leading-[19.44px] uppercase font-medium font-components-button-large text-primary-contrast text-center inline-block w-[109.87px]">
-                      Search flights
+                      Update flights
                     </div>
                   </button>
                 </div>
